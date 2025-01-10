@@ -1,0 +1,2 @@
+# NOTES
+Hardware, Software, Dev
