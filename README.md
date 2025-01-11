@@ -1,6 +1,6 @@
 ___
 ## *NOTES*
-Hardware, Software, Dev and more...
+Hardware, Software, Dev
 
 ___
 
