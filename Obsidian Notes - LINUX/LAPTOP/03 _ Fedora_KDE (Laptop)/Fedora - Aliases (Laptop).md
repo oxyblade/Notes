@@ -156,6 +156,7 @@ alias qq-git-status='git status'
 alias qq-git-add='git add .'
 alias qq-git-commit='git commit -m "Commit: `date`"'
 alias qq-git-push='git push'
+alias qq-git-tree='git ls-tree -r --name-only HEAD | tree --fromfile'
 
 ## GIT - htdocs
 alias qq-git-htdocs-status='cd ~/STORAGE_ASUS/01_Apps/Servers_Local/htdocs; git status'
