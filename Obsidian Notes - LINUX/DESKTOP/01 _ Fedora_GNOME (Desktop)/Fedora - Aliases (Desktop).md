@@ -107,13 +107,13 @@ alias qq-network-dnsmap='dnsmap'
 alias qq-network-dnsenum='dnsenum'
 
 ## System Scripts
-alias qq-sensors-full='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/DESKTOP/03_Scripts/qq-script-sensors.sh'
-alias qq-script-df-lsblk='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/DESKTOP/03_Scripts/qq-script-df-lsblk.sh'
-alias qq-script-dns-ping='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/DESKTOP/03_Scripts/qq-script-dns-ping.sh'
-alias qq-script-hostname='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/DESKTOP/03_Scripts/qq-script-hostname.sh'
-alias qq-script-npm-yarn-sudo='sudo /mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/DESKTOP/03_Scripts/qq-script-npm-yarn-sudo.sh'
-alias qq-script-ports-local-sudo='sudo /mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/DESKTOP/03_Scripts/qq-script-ports-local-sudo.sh'
-alias qq-script-resources='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/DESKTOP/03_Scripts/qq-script-resources.sh'
+alias qq-sensors-full='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-sensors-desktop.sh'
+alias qq-script-df-lsblk='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-df-lsblk.sh'
+alias qq-script-dns-ping='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-dns-ping.sh'
+alias qq-script-hostname='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-hostname.sh'
+alias qq-script-npm-yarn-sudo='sudo /mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-npm-yarn-sudo.sh'
+alias qq-script-ports-local-sudo='sudo /mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-ports-local-sudo.sh'
+alias qq-script-resources='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-resources.sh'
 
 ## Extended Scripts
 alias qq-script-external-geekbench='sudo /mnt/HDD_1/01_Apps/Apps_Portable/002/Geekbench/geekbench6'

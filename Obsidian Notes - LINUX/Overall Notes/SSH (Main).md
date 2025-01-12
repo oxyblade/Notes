@@ -11,6 +11,12 @@ ssh-keygen -t rsa
 `/home/vyom/.ssh/id_rsa already exists.`
 `Overwrite (y/n)? y`
 
+##### Permissions:
+
+700 - .ssh (Directory)
+600 - Private Key
+644 - Public Key (.pub)
+
 ___
 
 ## GitHub
