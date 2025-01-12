@@ -100,13 +100,13 @@ alias qq-network-wifi-list='nmcli device wifi list'
 alias qq-network-sslscan='sslscan'
 
 ## System Scripts
-alias qq-sensors-full='~/STORAGE_ASUS/01_Apps/Apps_Backup/Backup_LAPTOP/03_Scripts/qq-script-sensors.sh'
-alias qq-script-df-lsblk='~/STORAGE_ASUS/01_Apps/Apps_Backup/Backup_LAPTOP/03_Scripts/qq-script-df-lsblk.sh'
-alias qq-script-dns-ping='~/STORAGE_ASUS/01_Apps/Apps_Backup/Backup_LAPTOP/03_Scripts/qq-script-dns-ping.sh'
-alias qq-script-hostname='~/STORAGE_ASUS/01_Apps/Apps_Backup/Backup_LAPTOP/03_Scripts/qq-script-hostname.sh'
-alias qq-script-npm-yarn-sudo='sudo ~/STORAGE_ASUS/01_Apps/Apps_Backup/Backup_LAPTOP/03_Scripts/qq-script-npm-yarn-sudo.sh'
-alias qq-script-ports-local-sudo='sudo ~/STORAGE_ASUS/01_Apps/Apps_Backup/Backup_LAPTOP/03_Scripts/qq-script-ports-local-sudo.sh'
-alias qq-script-resources='~/STORAGE_ASUS/01_Apps/Apps_Backup/Backup_LAPTOP/03_Scripts/qq-script-resources.sh'
+alias qq-sensors-full='~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-sensors-laptop.sh'
+alias qq-script-df-lsblk='~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-df-lsblk.sh'
+alias qq-script-dns-ping='~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-dns-ping.sh'
+alias qq-script-hostname='~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-hostname.sh'
+alias qq-script-npm-yarn-sudo='sudo ~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-npm-yarn-sudo.sh'
+alias qq-script-ports-local-sudo='sudo ~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-ports-local-sudo.sh'
+alias qq-script-resources='~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-resources.sh'
 
 ## Extended Scripts
 alias qq-script-external-geekbench='sudo ~/STORAGE_ASUS/01_Apps/Apps_Portable/002/Geekbench/geekbench6'
