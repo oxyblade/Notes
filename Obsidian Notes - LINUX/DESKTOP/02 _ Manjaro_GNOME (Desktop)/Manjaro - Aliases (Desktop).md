@@ -152,7 +152,7 @@ alias qq-vm-libvirtd-service-stop='sudo systemctl stop libvirtd.service'
 alias qq-vm-libvirtd-service-disable='sudo systemctl disable libvirtd.service'
 alias qq-vm-libvirtd-service-enable='sudo systemctl enable libvirtd.service'
 alias qq-vm-libvirtd-service-restart='sudo systemctl restart libvirtd.service'
-alias qq-libreoffice-convertall-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.docx *.doc *.rtf *.odt *.pptx *.ppt'
+alias qq-libreoffice-convertALL-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.docx *.doc *.rtf *.odt *.pptx *.ppt *.txt *.png *.jpg *.jpeg'
 alias qq-libreoffice-convert-docx-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.docx'
 alias qq-libreoffice-convert-doc-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.doc'
 alias qq-libreoffice-convert-rtf-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.rtf'
@@ -160,6 +160,9 @@ alias qq-libreoffice-convert-odt-to-pdf='soffice --headless --convert-to pdf --o
 alias qq-libreoffice-convert-pptx-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.pptx'
 alias qq-libreoffice-convert-ppt-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.ppt'
 alias qq-libreoffice-convert-txt-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.txt'
+alias qq-libreoffice-convert-png-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.png'
+alias qq-libreoffice-convert-jpg-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.jpg'
+alias qq-libreoffice-convert-jpeg-to-pdf='soffice --headless --convert-to pdf --outdir /mnt/HDD_1/Downloads_HDD/06_Temp/ *.jpeg'
 
 ## GIT - Global
 alias qq-git-status='git status'

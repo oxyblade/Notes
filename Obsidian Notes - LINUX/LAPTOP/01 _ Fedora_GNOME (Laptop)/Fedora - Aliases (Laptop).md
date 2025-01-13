@@ -146,7 +146,7 @@ alias qq-vm-libvirtd-service-stop='sudo systemctl stop libvirtd.service'
 alias qq-vm-libvirtd-service-disable='sudo systemctl disable libvirtd.service'
 alias qq-vm-libvirtd-service-enable='sudo systemctl enable libvirtd.service'
 alias qq-vm-libvirtd-service-restart='sudo systemctl restart libvirtd.service'
-alias qq-libreoffice-convertall-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.docx *.doc *.rtf *.odt *.pptx *.ppt'
+alias qq-libreoffice-convertALL-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ _.docx_ .doc _.rtf_ .odt _.pptx_ .ppt _.txt_ .png _.jpg_ .jpeg'  
 alias qq-libreoffice-convert-docx-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.docx'
 alias qq-libreoffice-convert-doc-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.doc'
 alias qq-libreoffice-convert-rtf-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.rtf'
@@ -154,6 +154,9 @@ alias qq-libreoffice-convert-odt-to-pdf='soffice --headless --convert-to pdf --o
 alias qq-libreoffice-convert-pptx-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.pptx'
 alias qq-libreoffice-convert-ppt-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.ppt'
 alias qq-libreoffice-convert-txt-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.txt'
+alias qq-libreoffice-convert-png-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.png'
+alias qq-libreoffice-convert-jpg-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.jpg'
+alias qq-libreoffice-convert-jpeg-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.jpeg'
 
 ## GIT - Global
 alias qq-git-status='git status'
