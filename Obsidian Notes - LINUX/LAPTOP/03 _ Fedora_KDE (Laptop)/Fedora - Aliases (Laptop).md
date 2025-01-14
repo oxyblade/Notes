@@ -1,3 +1,4 @@
+```
 ## System
 alias qq-update-full='sudo dnf upgrade --refresh && sudo dnf autoremove && sudo dnf clean all && flatpak update && flatpak uninstall --unused'
 alias qq-dnf-makecache='sudo dnf makecache'
@@ -176,9 +177,11 @@ alias qq-git-oxyblade_github_io-push='cd ~/STORAGE_ASUS/03_JetBrainsProjects/oxy
 ## NodeJS
 export NODEJS_HOME=/home/andrew/STORAGE_ASUS/01_Apps/Apps_Portable/002/node/bin
 export PATH=$NODEJS_HOME:$PATH
+```
 
 ___
 
+```
 ## WireGuard
 ####### alias wireguard-nl-enable='sudo wg-quick up wg-NL'
 ####### alias wireguard-nl-disable='sudo wg-quick down wg-NL'
@@ -203,3 +206,4 @@ ___
 ####### alias vps-oracle-1='ssh ubuntu@158.101.203.99'
 ####### alias vps-oracle-2='ssh ubuntu@141.144.206.42'
 ####### alias vps-aws-1='ssh -i ~/.ssh/aws-vps-1.pem ubuntu@3.135.117.225'
+```

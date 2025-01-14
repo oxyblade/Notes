@@ -188,6 +188,7 @@ alias qq-git-oxyblade_github_io-push='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblad
 
 ___
 
+```
 ## WireGuard
 ####### alias wireguard-nl-enable='sudo wg-quick up wg-NL'
 ####### alias wireguard-nl-disable='sudo wg-quick down wg-NL'
@@ -212,3 +213,4 @@ ___
 ####### alias vps-oracle-1='ssh ubuntu@158.101.203.99'
 ####### alias vps-oracle-2='ssh ubuntu@141.144.206.42'
 ####### alias vps-aws-1='ssh -i ~/.ssh/aws-vps-1.pem ubuntu@3.135.117.225'
+```

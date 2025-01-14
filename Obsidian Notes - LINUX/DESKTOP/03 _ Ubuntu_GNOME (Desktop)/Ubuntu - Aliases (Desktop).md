@@ -1,3 +1,4 @@
+```
 ## System
 alias qq-update-repos='sudo apt-get update'
 alias qq-update-deb='sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get clean'
@@ -171,9 +172,11 @@ alias qq-git-oxyblade_github_io-status='cd /mnt/HDD_1/03_JetBrainsProjects/oxybl
 alias qq-git-oxyblade_github_io-add='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblade.github.io; git add .'
 alias qq-git-oxyblade_github_io-commit='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblade.github.io; git commit -m commit'
 alias qq-git-oxyblade_github_io-push='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblade.github.io; git push --force https://oxyblade:TOKEN@github.com/oxyblade/oxyblade.github.io.git'
+```
 
 ___
 
+```
 ## WireGuard
 ####### alias wireguard-nl-enable='sudo wg-quick up wg-NL'
 ####### alias wireguard-nl-disable='sudo wg-quick down wg-NL'
@@ -197,3 +200,4 @@ ___
 ####### alias vps-oracle-1='ssh ubuntu@158.101.203.99'
 ####### alias vps-oracle-2='ssh ubuntu@141.144.206.42'
 ####### alias vps-aws-1='ssh -i ~/.ssh/aws-vps-1.pem ubuntu@3.135.117.225'
+```
