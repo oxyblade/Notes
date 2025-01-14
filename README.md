@@ -4,6 +4,8 @@ Hardware, Software, Dev
 
 ___
 
+
+```
 .
 ├── .gitignore
 ├── Obsidian Notes - LINUX
@@ -86,3 +88,4 @@ ___
 └── README.md
 
 21 directories, 59 files
+```
