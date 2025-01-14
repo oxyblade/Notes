@@ -1,4 +1,4 @@
-```
+```shell
 ## System
 alias qq-update-repos='sudo apt-get update'
 alias qq-update-deb='sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get clean'
@@ -176,7 +176,7 @@ alias qq-git-oxyblade_github_io-push='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblad
 
 ___
 
-```
+```shell
 ## WireGuard
 ####### alias wireguard-nl-enable='sudo wg-quick up wg-NL'
 ####### alias wireguard-nl-disable='sudo wg-quick down wg-NL'

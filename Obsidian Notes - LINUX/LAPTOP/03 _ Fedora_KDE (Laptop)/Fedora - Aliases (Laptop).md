@@ -1,4 +1,4 @@
-```
+```shell
 ## System
 alias qq-update-full='sudo dnf upgrade --refresh && sudo dnf autoremove && sudo dnf clean all && flatpak update && flatpak uninstall --unused'
 alias qq-dnf-makecache='sudo dnf makecache'
@@ -181,7 +181,7 @@ export PATH=$NODEJS_HOME:$PATH
 
 ___
 
-```
+```shell
 ## WireGuard
 ####### alias wireguard-nl-enable='sudo wg-quick up wg-NL'
 ####### alias wireguard-nl-disable='sudo wg-quick down wg-NL'

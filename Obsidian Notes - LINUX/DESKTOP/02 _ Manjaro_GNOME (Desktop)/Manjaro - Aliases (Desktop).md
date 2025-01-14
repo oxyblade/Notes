@@ -1,4 +1,4 @@
-```
+```shell
 ## System
 alias qq-update-full='sudo pacman -Syu && flatpak update && flatpak uninstall --unused'
 alias qq-pacman-synchronizing='sudo pacman -Sy'
@@ -187,7 +187,7 @@ alias qq-git-oxyblade_github_io-push='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblad
 
 ___
 
-```
+```shell
 ## WireGuard
 ####### alias wireguard-nl-enable='sudo wg-quick up wg-NL'
 ####### alias wireguard-nl-disable='sudo wg-quick down wg-NL'
