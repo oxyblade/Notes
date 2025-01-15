@@ -1,7 +1,8 @@
-## General
+## Global
 ```
 flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub io.github.flattool.Warehouse -y
+flatpak install flathub page.tesk.Refine -y
 ```
 ___
 
@@ -108,7 +109,7 @@ flatpak install flathub io.gitlab.theevilskeleton.Upscaler -y
 ___
 
 ## Utilities
-NVIDIA X Server Settings, Logs, Tweaks, File Roller, Passwords and Keys, Firewall, GParted, Firmware, Extensions, Fedora Media Writer, dconf Editor, Boxes, Brasero, Connections
+Tweaks, NVIDIA X Server Settings, Logs, File Roller, Passwords and Keys, Firewall, GParted, Firmware, Extensions, Fedora Media Writer, dconf Editor, Boxes, Brasero, Connections
 ```
 flatpak install flathub io.github.flattool.Ignition -y
 ```
