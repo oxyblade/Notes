@@ -7,7 +7,7 @@
 
 ___
 
-**Desktop (PC Lan)**
+**Desktop (LAN)**
 b4:2e:99:a4:da:db
 192.168.100.2
 

@@ -1,0 +1,21 @@
+### Resolve large files
+
+```
+git status
+git add .
+git commit -m "Commit: `date`"
+git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch /server8/DB.sql'
+```
+
+### Delete remote branch
+
+Удаление папки / каталога только из репозитория git, а не из локальной:
+
+```
+git push origin --delete branchName
+
+git rm -r --cached FolderName
+git commit -m "Removed folder from repository"
+git push origin master
+```
+
