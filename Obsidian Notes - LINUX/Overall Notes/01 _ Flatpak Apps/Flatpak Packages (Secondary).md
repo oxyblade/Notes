@@ -48,6 +48,7 @@ flatpak install flathub com.sayonara_player.Sayonara -y
 flatpak install flathub net.puddletag.puddletag -y
 flatpak install flathub com.github.wwmm.easyeffects -y
 flatpak install flathub org.fooyin.fooyin -y
+flatpak install flathub org.gnome.Music -y
 ```
 
 ## Video
