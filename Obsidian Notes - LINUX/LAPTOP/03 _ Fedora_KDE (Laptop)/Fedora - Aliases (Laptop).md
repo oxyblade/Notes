@@ -156,6 +156,7 @@ alias qq-libreoffice-convert-jpg-to-pdf='soffice --headless --convert-to pdf --o
 alias qq-libreoffice-convert-jpeg-to-pdf='soffice --headless --convert-to pdf --outdir ~/Downloads/ *.jpeg'
 
 ## GIT - Global
+alias qq-git-full='qq-git-status && qq-git-add && qq-git-commit && qq-git-push && qq-git-status'
 alias qq-git-status='git status'
 alias qq-git-add='git add .'
 alias qq-git-commit='git commit -m "Commit: `date`"'
