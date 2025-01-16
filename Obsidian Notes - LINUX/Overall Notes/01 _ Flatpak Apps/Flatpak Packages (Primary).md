@@ -56,6 +56,7 @@ flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub com.github.PintaProject.Pinta -y
 flatpak install flathub org.nomacs.ImageLounge -y
 flatpak install flathub org.gnome.gThumb -y
+flatpak install flathub io.gitlab.adhami3310.Converter -y
 flatpak install flathub org.gnome.Showtime -y
 flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub no.mifi.losslesscut -y

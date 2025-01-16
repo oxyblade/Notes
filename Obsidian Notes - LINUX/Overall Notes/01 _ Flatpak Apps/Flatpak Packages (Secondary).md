@@ -49,6 +49,7 @@ flatpak install flathub net.puddletag.puddletag -y
 flatpak install flathub com.github.wwmm.easyeffects -y
 flatpak install flathub org.fooyin.fooyin -y
 flatpak install flathub org.gnome.Music -y
+flatpak install flathub org.gnome.SoundRecorder -y
 ```
 
 ## Video
