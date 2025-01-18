@@ -1,3 +1,5 @@
+Legacy GPU NVIDIA Driver Version (470.xx series)
+
 ```
 /sbin/lspci | grep -e VGA && /sbin/lspci | grep -e 3D
 ```
