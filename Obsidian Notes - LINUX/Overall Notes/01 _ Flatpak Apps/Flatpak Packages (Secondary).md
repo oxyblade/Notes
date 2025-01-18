@@ -102,6 +102,7 @@ flatpak install flathub org.remmina.Remmina -y
 ## System & Utils
 ```
 flatpak install flathub org.freedesktop.Bustle -y
+flatpak install flathub xyz.tytanium.DoorKnocker -y
 ```
 
 ## Misc
