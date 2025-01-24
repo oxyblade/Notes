@@ -109,6 +109,7 @@ flatpak install flathub xyz.ketok.Speedtest -y
 flatpak install flathub io.github.ronniedroid.concessio -y
 flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
 flatpak install flathub io.gitlab.theevilskeleton.Upscaler -y
+flatpak install flathub com.github.tenderowl.frog -y
 ```
 ___
 
