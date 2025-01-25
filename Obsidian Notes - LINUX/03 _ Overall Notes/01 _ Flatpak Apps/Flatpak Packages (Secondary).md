@@ -76,6 +76,7 @@ flatpak install flathub io.github.andreibachim.shortcut -y
 flatpak install flathub com.belmoussaoui.Authenticator -y
 flatpak install flathub com.kgurgul.cpuinfo -y
 flatpak install flathub com.borgbase.Vorta -y
+flatpak install flathub org.gnome.World.Secrets -y
 ```
 
 ## Office
