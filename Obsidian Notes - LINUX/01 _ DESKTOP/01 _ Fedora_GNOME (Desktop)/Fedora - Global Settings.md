@@ -83,6 +83,12 @@ sudo systemctl mask nvidia-powerd.service
 systemctl list-unit-files --state=masked
 ```
 
+## Additional settings
+
+sudo nano /etc/environment
+####### Totem Video Player Error: failed to initialize opengl with gtk
+GDK_GL=gles
+
 ____
 
 ## MISC
