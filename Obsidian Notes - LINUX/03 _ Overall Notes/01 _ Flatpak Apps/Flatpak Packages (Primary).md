@@ -61,6 +61,7 @@ flatpak install flathub com.github.huluti.Curtail -y
 flatpak install flathub io.gitlab.adhami3310.Converter -y
 flatpak install flathub org.kde.optiimage -y
 flatpak install flathub com.xnview.XnViewMP -y
+flatpak install flathub page.kramo.Sly -y
 flatpak install flathub org.gnome.Showtime -y
 flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub no.mifi.losslesscut -y
