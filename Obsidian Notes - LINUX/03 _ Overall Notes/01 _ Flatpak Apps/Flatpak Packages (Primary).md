@@ -126,6 +126,7 @@ ___
 flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub io.github.flattool.Warehouse -y
 flatpak install flathub page.tesk.Refine -y
+flatpak install flathub org.keepassxc.KeePassXC -y
 flatpak install flathub io.github.flattool.Ignition -y
 ```
 balenaEtcher, Tweaks, NVIDIA X Server Settings, Firewall, GParted, Firmware, Passwords and Keys, Extensions, Fedora Media Writer, dconf Editor, Boxes, Brasero, Connections, File Roller, nvtop
