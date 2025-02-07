@@ -1,4 +1,4 @@
-## GNOME Dock
+## GNOME Dash
 Terminal, Nautilus, HiFile, Firefox, PhpStorm, Software, Rhythmbox
 ```
 flatpak install flathub com.brave.Browser -y
