@@ -15,10 +15,13 @@ flatpak install flathub org.kde.kget -y
 flatpak install flathub de.haeckerfelix.Fragments -y
 flatpak install flathub im.dino.Dino -y
 flatpak install flathub io.github.giantpinkrobots.varia -y
+flatpak install flathub app.zen_browser.zen -y
+flatpak install flathub xyz.mx_moment.moment -y
 ```
 
 ## Dev
 ```
+flatpak install flathub io.github.cudatext.CudaText-Qt -y
 flatpak install flathub org.kde.okteta -y
 flatpak install flathub org.kde.ghostwriter -y
 ```
@@ -77,6 +80,7 @@ flatpak install flathub com.belmoussaoui.Authenticator -y
 flatpak install flathub com.kgurgul.cpuinfo -y
 flatpak install flathub com.borgbase.Vorta -y
 flatpak install flathub org.gnome.World.Secrets -y
+flatpak install flathub xyz.tytanium.DoorKnocker -y
 ```
 
 ## Office
@@ -89,6 +93,7 @@ flatpak install flathub io.appflowy.AppFlowy -y
 flatpak install flathub io.github.alainm23.planify -y
 flatpak install flathub io.appflowy.AppFlowy -y
 flatpak install flathub io.github.diegopvlk.Dosage -y
+flatpak install flathub org.gaphor.Gaphor -y
 ```
 
 ## Networking

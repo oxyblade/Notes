@@ -59,6 +59,7 @@ flatpak install flathub org.gnome.gThumb -y
 flatpak install flathub com.kjxbyz.PicGuard -y
 flatpak install flathub com.github.huluti.Curtail -y
 flatpak install flathub io.gitlab.adhami3310.Converter -y
+flatpak install flathub com.boxy_svg.BoxySVG -y
 flatpak install flathub org.kde.optiimage -y
 flatpak install flathub com.xnview.XnViewMP -y
 flatpak install flathub page.kramo.Sly -y
@@ -91,6 +92,7 @@ LibreOffice Impress, Document Viewer, Calculator, Calendar
 ```
 flatpak install flathub net.codeindustry.MasterPDFEditor -y
 flatpak install flathub org.gnome.World.Iotas -y
+flatpak install flathub io.github.amit9838.mousam -y
 ```
 
 ___
@@ -118,6 +120,7 @@ flatpak install flathub xyz.ketok.Speedtest -y
 flatpak install flathub io.github.ronniedroid.concessio -y
 flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
 flatpak install flathub com.github.tenderowl.frog -y
+flatpak install flathub io.gitlab.elescoute.password -y
 ```
 
 ___
