@@ -17,6 +17,7 @@ flatpak install flathub io.github.mimbrero.WhatsAppDesktop -y
 flatpak install flathub com.sindresorhus.Caprine -y
 flatpak install flathub org.kde.krita -y
 flatpak install flathub org.inkscape.Inkscape -y
+flatpak install flathub com.github.PintaProject.Pinta -y
 flatpak install flathub org.kde.kid3 -y
 flatpak install flathub org.soundconverter.SoundConverter -y
 flatpak install flathub com.transmissionbt.Transmission -y
@@ -24,9 +25,9 @@ flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub org.ksnip.ksnip -y
 flatpak install flathub com.github.finefindus.eyedropper -y
 flatpak install flathub app.drey.Dialect -y
+flatpak install flathub fr.romainvigier.MetadataCleaner -y
 flatpak install flathub com.kjxbyz.PicGuard -y
 flatpak install flathub com.github.huluti.Curtail -y
-flatpak install flathub fr.romainvigier.MetadataCleaner -y
 flatpak install flathub org.onlyoffice.desktopeditors -y
 flatpak install flathub io.missioncenter.MissionCenter -y
 flatpak install flathub net.nokyan.Resources -y
@@ -58,7 +59,6 @@ ___
 ## Images
 ```
 flatpak install flathub org.gimp.GIMP -y
-flatpak install flathub com.github.PintaProject.Pinta -y
 flatpak install flathub org.nomacs.ImageLounge -y
 flatpak install flathub org.gnome.gThumb -y
 flatpak install flathub io.gitlab.adhami3310.Converter -y
@@ -102,6 +102,11 @@ flatpak install flathub io.github.amit9838.mousam -y
 ___
 ## Tools & Utilities
 ```
+flatpak install flathub com.github.tchx84.Flatseal -y
+flatpak install flathub io.github.flattool.Warehouse -y
+flatpak install flathub page.tesk.Refine -y
+flatpak install flathub org.keepassxc.KeePassXC -y
+flatpak install flathub io.github.flattool.Ignition -y
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
 flatpak install flathub org.flameshot.Flameshot -y
 flatpak install flathub com.uploadedlobster.peek -y
@@ -109,33 +114,31 @@ flatpak install flathub org.gnome.design.Emblem -y
 flatpak install flathub org.gnome.design.Lorem -y
 flatpak install flathub garden.jamie.Morphosis -y
 flatpak install flathub dev.geopjr.Collision -y
-flatpak install flathub io.github.nate_xyz.Paleta -y
-flatpak install flathub org.gnome.design.Palette -y
+flatpak install flathub io.github.zefr0x.hashes -y
+flatpak install flathub io.gitlab.elescoute.password -y
+flatpak install flathub io.github.ronniedroid.concessio -y
+flatpak install flathub com.github.tenderowl.frog -y
 flatpak install flathub page.codeberg.JakobDev.jdReplace -y
 flatpak install flathub io.github.diegoivan.pdf_metadata_editor -y
-flatpak install flathub io.github.idevecore.Valuta -y
+flatpak install flathub io.github.nate_xyz.Paleta -y
+flatpak install flathub org.gnome.design.Palette -y
 flatpak install flathub com.felipekinoshita.Wildcard -y
-flatpak install flathub io.github.zefr0x.hashes -y
+flatpak install flathub io.github.idevecore.Valuta -y
 flatpak install flathub io.github.bytezz.IPLookup -y
 flatpak install flathub org.nmap.Zenmap -y
 flatpak install flathub io.github.lo2dev.Echo -y
 flatpak install flathub xyz.ketok.Speedtest -y
-flatpak install flathub io.github.ronniedroid.concessio -y
 flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
-flatpak install flathub com.github.tenderowl.frog -y
-flatpak install flathub io.gitlab.elescoute.password -y
 ```
 
 ___
-## Utilities
-```
-flatpak install flathub com.github.tchx84.Flatseal -y
-flatpak install flathub io.github.flattool.Warehouse -y
-flatpak install flathub page.tesk.Refine -y
-flatpak install flathub org.keepassxc.KeePassXC -y
-flatpak install flathub io.github.flattool.Ignition -y
-```
-balenaEtcher, Tweaks, NVIDIA X Server Settings, Firewall, GParted, Firmware, Passwords and Keys, Extensions, Fedora Media Writer, dconf Editor, Boxes, Brasero, Connections, File Roller, nvtop
+## Misc
+Weather, Camera, Contacts, Clocks, Image Viewer
+
+___
+## Fedora
+
+Tweaks, NVIDIA X Server Settings, Firewall, GParted, Firmware, Passwords and Keys, Extensions, Fedora Media Writer, balenaEtcher, dconf Editor, Boxes, Brasero, Connections, File Roller, nvtop
 
 ___
 ## Games
@@ -143,11 +146,6 @@ ___
 flatpak install flathub net.zdechov.app.x2048 -y
 flatpak install flathub io.github.nokse22.ultimate-tic-tac-toe -y
 ```
-
-___
-
-## Fedora
-Weather, Camera, Contacts, Clocks, Image Viewer
 
 ___
 ## Flatseal - Global options
