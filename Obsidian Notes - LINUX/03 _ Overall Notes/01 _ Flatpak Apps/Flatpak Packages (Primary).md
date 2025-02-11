@@ -37,6 +37,7 @@ flatpak install flathub com.viber.Viber -y
 flatpak install flathub com.skype.Client -y
 flatpak install flathub us.zoom.Zoom -y
 flatpak install flathub org.gajim.Gajim -y
+flatpak install flathub org.nickvision.tubeconverter -y
 flatpak install flathub com.github.unrud.VideoDownloader -y
 flatpak install flathub io.github.mhogomchungu.media-downloader -y
 flatpak install flathub com.protonvpn.www -y
