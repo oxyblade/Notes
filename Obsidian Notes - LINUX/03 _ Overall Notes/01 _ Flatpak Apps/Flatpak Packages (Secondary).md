@@ -43,6 +43,14 @@ flatpak install flathub com.github.flxzt.rnote -y
 flatpak install flathub io.gitlab.adhami3310.Converter -y
 ```
 
+## Video
+```
+flatpak install flathub io.github.seadve.Kooha -y
+flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
+flatpak install flathub dev.fredol.open-tv -y
+flatpak install flathub io.github.jliljebl.Flowblade -y
+```
+
 ## Audio
 ```
 flatpak install flathub org.gnome.Rhythmbox3 -y
@@ -55,15 +63,21 @@ flatpak install flathub org.gnome.Music -y
 flatpak install flathub org.gnome.SoundRecorder -y
 ```
 
-## Video
+## Office
 ```
-flatpak install flathub io.github.seadve.Kooha -y
-flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
-flatpak install flathub dev.fredol.open-tv -y
-flatpak install flathub io.github.jliljebl.Flowblade -y
+flatpak install flathub org.libreoffice.LibreOffice -y
+flatpak install flathub com.wps.Office -y
+flatpak install flathub org.standardnotes.standardnotes -y
+flatpak install flathub net.jenyay.Outwiker -y
+flatpak install flathub io.appflowy.AppFlowy -y
+flatpak install flathub io.github.alainm23.planify -y
+flatpak install flathub io.appflowy.AppFlowy -y
+flatpak install flathub io.github.diegopvlk.Dosage -y
+flatpak install flathub org.gaphor.Gaphor -y
+flatpak install flathub org.nickvision.money -y
 ```
 
-## Tools
+## Tools & Utilities
 ```
 flatpak install flathub com.mattjakeman.ExtensionManager -y
 flatpak install flathub net.mediaarea.MediaInfo -y
@@ -81,19 +95,7 @@ flatpak install flathub com.kgurgul.cpuinfo -y
 flatpak install flathub com.borgbase.Vorta -y
 flatpak install flathub org.gnome.World.Secrets -y
 flatpak install flathub xyz.tytanium.DoorKnocker -y
-```
-
-## Office
-```
-flatpak install flathub org.libreoffice.LibreOffice -y
-flatpak install flathub com.wps.Office -y
-flatpak install flathub org.standardnotes.standardnotes -y
-flatpak install flathub net.jenyay.Outwiker -y
-flatpak install flathub io.appflowy.AppFlowy -y
-flatpak install flathub io.github.alainm23.planify -y
-flatpak install flathub io.appflowy.AppFlowy -y
-flatpak install flathub io.github.diegopvlk.Dosage -y
-flatpak install flathub org.gaphor.Gaphor -y
+flatpak install flathub org.gnome.gitlab.cheywood.Buffer -y
 ```
 
 ## Networking
@@ -106,7 +108,7 @@ flatpak install flathub org.remmina.Remmina -y
 flatpak install flathub io.frama.tractor.carburetor -y
 ```
 
-## System & Utils
+## System
 ```
 flatpak install flathub org.freedesktop.Bustle -y
 flatpak install flathub xyz.tytanium.DoorKnocker -y

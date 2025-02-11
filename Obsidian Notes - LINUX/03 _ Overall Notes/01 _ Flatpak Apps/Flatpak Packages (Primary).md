@@ -83,6 +83,7 @@ ___
 ## Audio
 ```
 flatpak install flathub org.mixxx.Mixxx -y
+flatpak install flathub org.nickvision.tagger -y
 flatpak install flathub de.haeckerfelix.Shortwave -y
 ```
 
@@ -96,7 +97,7 @@ flatpak install flathub io.github.amit9838.mousam -y
 ```
 
 ___
-## Tools
+## Tools & Utilities
 ```
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
 flatpak install flathub org.flameshot.Flameshot -y
@@ -121,6 +122,7 @@ flatpak install flathub io.github.ronniedroid.concessio -y
 flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
 flatpak install flathub com.github.tenderowl.frog -y
 flatpak install flathub io.gitlab.elescoute.password -y
+flatpak install flathub app.drey.Dialect -y
 ```
 
 ___
