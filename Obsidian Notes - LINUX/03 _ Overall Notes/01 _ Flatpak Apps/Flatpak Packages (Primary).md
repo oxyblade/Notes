@@ -23,6 +23,10 @@ flatpak install flathub com.transmissionbt.Transmission -y
 flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub org.ksnip.ksnip -y
 flatpak install flathub com.github.finefindus.eyedropper -y
+flatpak install flathub app.drey.Dialect -y
+flatpak install flathub com.kjxbyz.PicGuard -y
+flatpak install flathub com.github.huluti.Curtail -y
+flatpak install flathub fr.romainvigier.MetadataCleaner -y
 flatpak install flathub org.onlyoffice.desktopeditors -y
 flatpak install flathub io.missioncenter.MissionCenter -y
 flatpak install flathub net.nokyan.Resources -y
@@ -57,8 +61,6 @@ flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub com.github.PintaProject.Pinta -y
 flatpak install flathub org.nomacs.ImageLounge -y
 flatpak install flathub org.gnome.gThumb -y
-flatpak install flathub com.kjxbyz.PicGuard -y
-flatpak install flathub com.github.huluti.Curtail -y
 flatpak install flathub io.gitlab.adhami3310.Converter -y
 flatpak install flathub com.boxy_svg.BoxySVG -y
 flatpak install flathub org.kde.optiimage -y
@@ -103,7 +105,6 @@ ___
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
 flatpak install flathub org.flameshot.Flameshot -y
 flatpak install flathub com.uploadedlobster.peek -y
-flatpak install flathub app.drey.Dialect -y
 flatpak install flathub org.gnome.design.Emblem -y
 flatpak install flathub org.gnome.design.Lorem -y
 flatpak install flathub garden.jamie.Morphosis -y
@@ -111,7 +112,6 @@ flatpak install flathub dev.geopjr.Collision -y
 flatpak install flathub io.github.nate_xyz.Paleta -y
 flatpak install flathub org.gnome.design.Palette -y
 flatpak install flathub page.codeberg.JakobDev.jdReplace -y
-flatpak install flathub fr.romainvigier.MetadataCleaner -y
 flatpak install flathub io.github.diegoivan.pdf_metadata_editor -y
 flatpak install flathub io.github.idevecore.Valuta -y
 flatpak install flathub com.felipekinoshita.Wildcard -y
