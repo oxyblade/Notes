@@ -102,6 +102,7 @@ ___
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
 flatpak install flathub org.flameshot.Flameshot -y
 flatpak install flathub com.uploadedlobster.peek -y
+flatpak install flathub app.drey.Dialect -y
 flatpak install flathub org.gnome.design.Emblem -y
 flatpak install flathub org.gnome.design.Lorem -y
 flatpak install flathub garden.jamie.Morphosis -y
@@ -122,7 +123,6 @@ flatpak install flathub io.github.ronniedroid.concessio -y
 flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
 flatpak install flathub com.github.tenderowl.frog -y
 flatpak install flathub io.gitlab.elescoute.password -y
-flatpak install flathub app.drey.Dialect -y
 ```
 
 ___
