@@ -20,10 +20,10 @@ flatpak install flathub org.inkscape.Inkscape -y
 flatpak install flathub com.github.PintaProject.Pinta -y
 flatpak install flathub org.kde.kid3 -y
 flatpak install flathub org.soundconverter.SoundConverter -y
+flatpak install flathub com.gopeed.Gopeed -y
 flatpak install flathub com.transmissionbt.Transmission -y
 flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub org.ksnip.ksnip -y
-flatpak install flathub com.github.finefindus.eyedropper -y
 flatpak install flathub app.drey.Dialect -y
 flatpak install flathub fr.romainvigier.MetadataCleaner -y
 flatpak install flathub com.kjxbyz.PicGuard -y
@@ -111,6 +111,7 @@ flatpak install flathub io.github.flattool.Ignition -y
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
 flatpak install flathub org.flameshot.Flameshot -y
 flatpak install flathub com.uploadedlobster.peek -y
+flatpak install flathub com.github.finefindus.eyedropper -y
 flatpak install flathub org.gnome.design.Emblem -y
 flatpak install flathub org.gnome.design.Lorem -y
 flatpak install flathub garden.jamie.Morphosis -y
